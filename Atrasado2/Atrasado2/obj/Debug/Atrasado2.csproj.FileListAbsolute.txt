@@ -1,0 +1,7 @@
+C:\Users\felipe.rgsantos\source\repos\Atrasado2\Atrasado2\bin\Debug\Atrasado2.exe.config
+C:\Users\felipe.rgsantos\source\repos\Atrasado2\Atrasado2\bin\Debug\Atrasado2.exe
+C:\Users\felipe.rgsantos\source\repos\Atrasado2\Atrasado2\bin\Debug\Atrasado2.pdb
+C:\Users\felipe.rgsantos\source\repos\Atrasado2\Atrasado2\obj\Debug\Atrasado2.csproj.AssemblyReference.cache
+C:\Users\felipe.rgsantos\source\repos\Atrasado2\Atrasado2\obj\Debug\Atrasado2.csproj.CoreCompileInputs.cache
+C:\Users\felipe.rgsantos\source\repos\Atrasado2\Atrasado2\obj\Debug\Atrasado2.exe
+C:\Users\felipe.rgsantos\source\repos\Atrasado2\Atrasado2\obj\Debug\Atrasado2.pdb
